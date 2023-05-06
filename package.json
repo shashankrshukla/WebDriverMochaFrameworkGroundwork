@@ -16,6 +16,6 @@
   },
   "devDependencies": {
     "mochawesome": "^3.1.1",
-    "mochawesome-screenshots": "^1.6.0"
+    "mochawesome-screenshots": "^1.7.0"
   }
 }
